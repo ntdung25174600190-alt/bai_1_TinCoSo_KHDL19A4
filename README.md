@@ -1,1 +1,1 @@
-# Bài 1 - Tin cơ sở KHDL
+#25174600190_Nguyen_Thi_Dung_bai_tap
