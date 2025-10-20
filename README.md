@@ -1,1 +1,1 @@
-# bai_1_TinCoSo_KHDL19A4
+# Bài 1 - Tin cơ sở KHDL
